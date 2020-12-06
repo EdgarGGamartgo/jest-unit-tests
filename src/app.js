@@ -9,5 +9,5 @@ app.use(cors());
 app.options('*', cors());
 app.use(arithmeticsRouter)
 
-export { app as default }
+export default app
 

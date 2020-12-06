@@ -1,0 +1,8 @@
+A .babelrc must be included to the root of the project
+to make it work with the following code:
+
+{
+    "presets": [
+        "env"
+    ]
+}
